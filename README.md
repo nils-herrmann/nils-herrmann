@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nils-herrmann
-- 👀 I’m interested in applying machine learning in economics
-- 🌱 I’m currently learning nlp
+- 👋 Hi, I’m Nils Herrmann
+- 👀 I’m interested in machine learning
 - 📫 How to reach me: nils18@live.com.mx
 
 <!---
