@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Nils Herrmann
+- 👋 Hi, I’m Nils Herrmann de Alba
+- I'm co-developing [pybliometrics](https://github.com/pybliometrics-dev/pybliometrics)
 - 👀 I’m interested in machine learning
 - 📫 How to reach me: nils18@live.com.mx
 
