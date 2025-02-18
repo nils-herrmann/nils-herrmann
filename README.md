@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nils Herrmann de Alba
-- 👨‍💻 I'm co-developing [pybliometrics](https://github.com/pybliometrics-dev/pybliometrics)
+- 👋 Hi, I’m Nils A. Herrmann
+- 👨‍💻 I'm co-developing [sprynger](https://github.com/nils-herrmann/sprynger), [pybliometrics](https://github.com/pybliometrics-dev/pybliometrics) and [pubmed-parser](https://github.com/titipata/pubmed_parser)
 - 👀 I’m interested in machine learning
 - 📫 How to reach me: nils_herrmann@outlook.de
 
